@@ -117,8 +117,7 @@ MESSAGES = {
 ```
 </details>
 
-<details>
-<summary><h3>
+
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
@@ -170,6 +169,7 @@ MESSAGES = {
 
 
 ━━━━━━━━━━━━━━━━━━━━
+
 
 
 
