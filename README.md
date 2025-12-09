@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/6cfe41b279bbe53061fc4591d115038dc36acc593bb6062d0692b8a0810d1bde/68747470733a2f2f74652e6c656772612e70682f66696c652f3066373538333231613932613934323861366334382e6a7067">
+  <img src="https://i.rj1.dev/Ccvey.png">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs/ʟᴏᴄᴀʟ 」─
 </h3>
 
-<details><summary><b> - ғᴇᴀᴛᴜʀᴇs ᴀɴᴅ ᴅᴇᴄʀɪᴘᴛɪᴏɴ:</b></summary>
+
 
 
 
@@ -183,6 +183,7 @@ MESSAGES = {
 
 
 ━━━━━━━━━━━━━━━━━━━━
+
 
 
 
