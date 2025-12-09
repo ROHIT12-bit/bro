@@ -69,24 +69,12 @@ Send text, photo, button-based, or forced broadcasts to all users at once. Relia
   
 ## ᴀᴅᴍɪɴ ᴀɴᴅ ᴜsᴇʀs ᴄᴏᴍᴍᴀɴᴅs
 - **start** - sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ
-- **shortner** - sʜᴏʀᴛɴᴇʀ sᴇᴛᴛɪɴɢs
+- **ssequence** - ᴛᴏ sᴛᴀʀᴛ sᴇǫᴜᴇɴᴄᴇ
+- **esequence** - ᴛᴏ ᴇɴᴅ sᴇǫᴜᴇɴᴄᴇ
+- **leaderboard** - ᴛᴏ ᴄʜᴇᴄᴋ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ
 - **users** - ᴠɪᴇᴡ ᴛʜᴇ ᴜsᴇʀs ʟɪsᴛ
 - **broadcast** - sᴇɴᴅ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜsᴇʀs
-- **batch** - sᴇɴᴅ ᴍᴇssᴀɢᴇs ɪɴ ʙᴀᴛᴄʜᴇs
-- **genlink** - ɢᴇɴᴇʀᴀᴛᴇ ᴀ ʟɪɴᴋ
-- **usage** - ᴄʜᴇᴄᴋ ʟɪɴᴋ ᴜsᴀɢᴇ
-- **pbroadcast** - sᴇɴᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴇssᴀɢᴇ ᴛᴏ ᴜsᴇʀs
-- **ban** - ʙᴀɴ ᴀ ᴜsᴇʀ
-- **unban** - ᴜɴʙᴀɴ ᴀ ᴜsᴇʀ
-- **addpremium** - ᴀᴅᴅ ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀ
-- **delpremium** - ʀᴇᴍᴏᴠᴇ ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀ
-- **premiumusers** - ᴠɪᴇᴡ ᴀʟʟ ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs
-- **request** - sᴇɴᴅ ᴀ ʀᴇǫᴜᴇsᴛ
-- **profile** - ᴠɪᴇᴡ ᴜsᴇʀ ᴘʀᴏғɪʟᴇ
 
-- **db** - db channel configs
-- **adddb** - add primary & secondary db channel
-- **removedb** - to remove db channel.
 </details>
 
 <details><summary><b> - ᴠᴀʀɪᴀʙʟᴇs :</b></summary>
@@ -168,7 +156,8 @@ MESSAGES = {
 ʏᴏᴜ ᴀʀᴇ ꜰʀᴇᴇ ᴛᴏ ᴜsᴇ, ᴍᴏᴅɪꜰʏ, ᴀɴᴅ sʜᴀʀᴇ ɪᴛ — ʙᴜᴛ ʏᴏᴜ ᴍᴜsᴛ ᴀʟsᴏ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ᴀɴᴅ ᴋᴇᴇᴘ ɪᴛ ᴜɴᴅᴇʀ ᴛʜᴇ ɢᴘʟ ʟɪᴄᴇɴsᴇ.
 
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 
 
